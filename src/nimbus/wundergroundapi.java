@@ -10,6 +10,7 @@ package nimbus;
 public class wundergroundapi {
 	public wundergroundapi() {
 		String key = "ecbe43c694d84375";
+		
 	}
 			
 	
